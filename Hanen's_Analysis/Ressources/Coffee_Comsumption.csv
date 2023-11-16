@@ -1,0 +1,402 @@
+State,Year,ALC Rate (%),Question,Cups of Coffee
+Michigan,2011,753.0,Chronic liver disease mortality,2.52
+Michigan,2013,429.0,Chronic liver disease mortality,2.52
+Michigan,2012,0.0,Local authority to regulate alcohol outlet density,2.52
+Michigan,2015,0.0,Alcohol use before pregnancy,2.52
+Michigan,2019,10.9,Binge drinking prevalence among youth,2.52
+Michigan,2020,18.2,Chronic liver disease mortality,2.52
+Michigan,2015,0.0,Alcohol use among youth,2.52
+Michigan,2012,0.0,Chronic liver disease mortality,2.52
+Michigan,2019,0.0,Chronic liver disease mortality,2.52
+Michigan,2019,556.0,Chronic liver disease mortality,2.52
+Michigan,2013,10.0,Chronic liver disease mortality,2.52
+Michigan,2020,12.2,Chronic liver disease mortality,2.52
+Michigan,2017,14.8,Binge drinking prevalence among youth,2.52
+Michigan,2015,7.6,Chronic liver disease mortality,2.52
+Michigan,2016,55.0,Chronic liver disease mortality,2.52
+Michigan,2017,70.4,Alcohol use before pregnancy,2.52
+Michigan,2014,7.0,Chronic liver disease mortality,2.52
+Michigan,2013,0.0,Chronic liver disease mortality,2.52
+Michigan,2013,0.0,Alcohol use before pregnancy,2.52
+Delaware,2015,55.6,Alcohol use before pregnancy,2.44
+Delaware,2010,77.0,Chronic liver disease mortality,2.44
+Delaware,2016,46.0,Chronic liver disease mortality,2.44
+Delaware,2019,0.0,Chronic liver disease mortality,2.44
+Delaware,2020,30.2,Alcohol use before pregnancy,2.44
+Delaware,2012,0.0,Alcohol use before pregnancy,2.44
+Delaware,2012,0.0,Chronic liver disease mortality,2.44
+Delaware,2017,0.0,Alcohol use before pregnancy,2.44
+Delaware,2016,31.1,Alcohol use before pregnancy,2.44
+Delaware,2010,93.0,Chronic liver disease mortality,2.44
+Delaware,2015,11.7,Chronic liver disease mortality,2.44
+Delaware,2013,12.7,Chronic liver disease mortality,2.44
+Delaware,2013,20.4,Binge drinking prevalence among youth,2.44
+Delaware,2016,0.0,Chronic liver disease mortality,2.44
+Delaware,2018,0.0,Chronic liver disease mortality,2.44
+Delaware,2012,8.0,Chronic liver disease mortality,2.44
+Delaware,2019,0.0,Alcohol use before pregnancy,2.44
+Delaware,2017,0.0,Chronic liver disease mortality,2.44
+Delaware,2012,0.0,Chronic liver disease mortality,2.44
+Delaware,2012,0.0,Chronic liver disease mortality,2.44
+Delaware,2013,0.0,Alcohol use before pregnancy,2.44
+Delaware,2012,63.0,Chronic liver disease mortality,2.44
+Delaware,2014,9.1,Chronic liver disease mortality,2.44
+Delaware,2014,0.0,Chronic liver disease mortality,2.44
+Delaware,2018,8.4,Chronic liver disease mortality,2.44
+Delaware,2015,0.0,Chronic liver disease mortality,2.44
+Delaware,2019,0.0,Alcohol use among youth,2.44
+West Virginia,2019,394.0,Chronic liver disease mortality,2.35
+West Virginia,2017,0.0,Alcohol use among youth,2.35
+West Virginia,2020,0.0,Alcohol use before pregnancy,2.35
+West Virginia,2019,0.0,Binge drinking prevalence among youth,2.35
+West Virginia,2017,29.6,Alcohol use among youth,2.35
+West Virginia,2015,0.0,Alcohol use before pregnancy,2.35
+West Virginia,2017,16.4,Binge drinking prevalence among youth,2.35
+Ohio,2019,22.5,Alcohol use among youth,2.16
+Ohio,2015,1333.0,Chronic liver disease mortality,2.16
+Ohio,2021,11.2,Heavy drinking among women aged 18-44 years,2.16
+Ohio,2018,5.3,Binge drinking frequency among adults aged >= 18 years who binge drink,2.16
+Ohio,2021,11.0,Binge drinking intensity among adults aged >= 18 years who binge drink,2.16
+Ohio,2017,20.5,Binge drinking prevalence among adults aged >= 18 years,2.16
+Ohio,2021,13.8,Binge drinking prevalence among adults aged >= 18 years,2.16
+Ohio,2014,8.8,Binge drinking intensity among adults aged >= 18 years who binge drink,2.16
+Ohio,2017,5.1,Binge drinking frequency among adults aged >= 18 years who binge drink,2.16
+Ohio,2014,19.5,Binge drinking prevalence among adults aged >= 18 years,2.16
+Ohio,2018,13.1,Binge drinking prevalence among adults aged >= 18 years,2.16
+Ohio,2012,18.3,Binge drinking prevalence among adults aged >= 18 years,2.16
+Ohio,2019,4.2,Binge drinking frequency among adults aged >= 18 years who binge drink,2.16
+Ohio,2010,12.9,Chronic liver disease mortality,2.16
+Ohio,2013,32.2,Alcohol use among youth,2.16
+Ohio,2018,16.4,Chronic liver disease mortality,2.16
+Ohio,2017,0.0,Alcohol use among youth,2.16
+Ohio,2017,0.0,Binge drinking prevalence among youth,2.16
+Ohio,2011,1145.0,Chronic liver disease mortality,2.16
+Ohio,2013,10.3,Chronic liver disease mortality,2.16
+Ohio,2020,0.0,Chronic liver disease mortality,2.16
+Ohio,2017,162.0,Chronic liver disease mortality,2.16
+Ohio,2012,6.7,Chronic liver disease mortality,2.16
+Ohio,2014,138.0,Chronic liver disease mortality,2.16
+Ohio,2015,16.4,Chronic liver disease mortality,2.16
+Ohio,2016,7.7,Chronic liver disease mortality,2.16
+Ohio,2019,15.1,Chronic liver disease mortality,2.16
+Ohio,2010,28.0,Chronic liver disease mortality,2.16
+Ohio,2011,0.0,Chronic liver disease mortality,2.16
+Ohio,2011,7.9,Chronic liver disease mortality,2.16
+Ohio,2017,6.8,Chronic liver disease mortality,2.16
+Ohio,2013,545.0,Chronic liver disease mortality,2.16
+Nebraska,2011,101.0,Chronic liver disease mortality,2.13
+Nebraska,2017,78.0,Chronic liver disease mortality,2.13
+Nebraska,2016,7.4,Binge drinking intensity among adults aged >= 18 years who binge drink,2.13
+Nebraska,2013,27.6,Binge drinking prevalence among women aged 18-44 years,2.13
+Nebraska,2011,7.3,Binge drinking intensity among adults aged >= 18 years who binge drink,2.13
+Nebraska,2013,7.2,Heavy drinking among adults aged >= 18 years,2.13
+Nebraska,2011,4.1,Binge drinking frequency among adults aged >= 18 years who binge drink,2.13
+Nebraska,2016,6.7,Heavy drinking among adults aged >= 18 years,2.13
+Nebraska,2021,16.2,Binge drinking prevalence among adults aged >= 18 years,2.13
+Nebraska,2017,4.7,Binge drinking frequency among adults aged >= 18 years who binge drink,2.13
+Nebraska,2020,15.2,Chronic liver disease mortality,2.13
+Nebraska,2019,0.0,Chronic liver disease mortality,2.13
+Nebraska,2020,66.1,Alcohol use before pregnancy,2.13
+Nebraska,2011,0.0,Chronic liver disease mortality,2.13
+Nebraska,2019,0.0,Binge drinking prevalence among youth,2.13
+Nebraska,2018,30.8,Alcohol use before pregnancy,2.13
+Nebraska,2018,79.8,Alcohol use before pregnancy,2.13
+Nebraska,2011,0.0,Chronic liver disease mortality,2.13
+Nebraska,2011,0.0,Chronic liver disease mortality,2.13
+Nebraska,2015,9.5,Chronic liver disease mortality,2.13
+Nebraska,2014,0.0,Chronic liver disease mortality,2.13
+Nebraska,2014,73.8,Alcohol use before pregnancy,2.13
+Nebraska,2017,0.0,Chronic liver disease mortality,2.13
+Nebraska,2016,0.0,Chronic liver disease mortality,2.13
+Nebraska,2013,0.0,Chronic liver disease mortality,2.13
+Nebraska,2012,64.0,Chronic liver disease mortality,2.13
+Nebraska,2011,6.6,Chronic liver disease mortality,2.13
+Nebraska,2017,0.0,Alcohol use among youth,2.13
+Arkansas,2012,203.0,Chronic liver disease mortality,2.12
+Arkansas,2019,183.0,Chronic liver disease mortality,2.12
+Arkansas,2019,53.5,Alcohol use before pregnancy,2.12
+Arkansas,2015,266.0,Chronic liver disease mortality,2.12
+Arkansas,2016,138.0,Chronic liver disease mortality,2.12
+Arkansas,2014,8.2,Chronic liver disease mortality,2.12
+Arkansas,2020,0.0,Chronic liver disease mortality,2.12
+Arkansas,2013,0.0,Alcohol use before pregnancy,2.12
+Arkansas,2011,6.3,Chronic liver disease mortality,2.12
+Arkansas,2017,28.1,Alcohol use among youth,2.12
+Arkansas,2011,112.0,Chronic liver disease mortality,2.12
+Arkansas,2017,0.0,Chronic liver disease mortality,2.12
+Arkansas,2012,11.0,Chronic liver disease mortality,2.12
+Arkansas,2013,38.0,Alcohol use among youth,2.12
+Arkansas,2018,8.8,Chronic liver disease mortality,2.12
+Arkansas,2010,0.0,Chronic liver disease mortality,2.12
+Arkansas,2015,0.0,Chronic liver disease mortality,2.12
+Arkansas,2015,0.0,Alcohol use before pregnancy,2.12
+Arkansas,2019,38.6,Alcohol use before pregnancy,2.12
+Arkansas,2012,17.2,Alcohol use before pregnancy,2.12
+Arkansas,2018,13.9,Chronic liver disease mortality,2.12
+Arkansas,2018,18.0,Chronic liver disease mortality,2.12
+Arkansas,2017,352.0,Chronic liver disease mortality,2.12
+Arkansas,2013,0.0,Chronic liver disease mortality,2.12
+Arkansas,2013,16.0,Chronic liver disease mortality,2.12
+Arkansas,2018,0.0,Alcohol use before pregnancy,2.12
+Arkansas,2017,20.8,Alcohol use among youth,2.12
+Arkansas,2017,31.0,Chronic liver disease mortality,2.12
+South Carolina,2011,383.0,Chronic liver disease mortality,2.12
+South Carolina,2014,116.0,Chronic liver disease mortality,2.12
+South Carolina,2015,18.0,Chronic liver disease mortality,2.12
+South Carolina,2017,10.1,Binge drinking prevalence among youth,2.12
+South Carolina,2014,0.0,Alcohol use before pregnancy,2.12
+South Carolina,2015,19.1,Alcohol use among youth,2.12
+Kansas,2018,62.6,Alcohol use before pregnancy,2.07
+Kansas,2020,393.0,Chronic liver disease mortality,2.07
+Kansas,2015,12.3,Chronic liver disease mortality,2.07
+Kansas,2011,0.0,Chronic liver disease mortality,2.07
+Kansas,2012,0.0,Chronic liver disease mortality,2.07
+Kansas,2019,0.0,Chronic liver disease mortality,2.07
+Kansas,2019,12.6,Chronic liver disease mortality,2.07
+Kansas,2017,317.0,Chronic liver disease mortality,2.07
+Kansas,2010,8.6,Chronic liver disease mortality,2.07
+Kansas,2019,20.9,Binge drinking prevalence among youth,2.07
+Kansas,2018,100.0,Chronic liver disease mortality,2.07
+Kansas,2017,29.2,Alcohol use among youth,2.07
+Kansas,2020,449.0,Chronic liver disease mortality,2.07
+Kansas,2014,9.8,Chronic liver disease mortality,2.07
+Kansas,2012,0.0,Chronic liver disease mortality,2.07
+Kansas,2020,64.0,Alcohol use before pregnancy,2.07
+Kansas,2012,219.0,Chronic liver disease mortality,2.07
+Maine,2012,97.0,Chronic liver disease mortality,2.05
+Maine,2017,22.2,Alcohol use among youth,2.05
+Maine,2019,0.0,Alcohol use before pregnancy,2.05
+Maine,2018,0.0,Chronic liver disease mortality,2.05
+Maine,2019,0.0,Binge drinking prevalence among youth,2.05
+Maine,2017,74.0,Chronic liver disease mortality,2.05
+Maine,2019,68.7,Alcohol use before pregnancy,2.05
+Maine,2014,8.7,Chronic liver disease mortality,2.05
+Maine,2019,0.0,Chronic liver disease mortality,2.05
+Maine,2011,154.0,Chronic liver disease mortality,2.05
+Maine,2019,23.6,Alcohol use among youth,2.05
+Maine,2012,0.0,Chronic liver disease mortality,2.05
+Maine,2015,0.0,Chronic liver disease mortality,2.05
+Maine,2014,156.0,Chronic liver disease mortality,2.05
+Maine,2011,8.9,Chronic liver disease mortality,2.05
+Maine,2013,0.0,Chronic liver disease mortality,2.05
+Maine,2013,0.0,Chronic liver disease mortality,2.05
+Maine,2014,0.0,Alcohol use before pregnancy,2.05
+Maine,2020,0.0,Chronic liver disease mortality,2.05
+Maine,2010,69.0,Chronic liver disease mortality,2.05
+Maine,2015,192.0,Chronic liver disease mortality,2.05
+Maine,2020,0.0,Alcohol use before pregnancy,2.05
+Maine,2013,12.6,Chronic liver disease mortality,2.05
+Maine,2013,33.5,Alcohol use among youth,2.05
+Maine,2018,0.0,Alcohol use before pregnancy,2.05
+Louisiana,2011,386.0,Chronic liver disease mortality,2.03
+Louisiana,2015,127.0,Chronic liver disease mortality,2.03
+Louisiana,2015,14.5,Chronic liver disease mortality,2.03
+Louisiana,2017,0.0,Chronic liver disease mortality,2.03
+Louisiana,2020,231.0,Chronic liver disease mortality,2.03
+Louisiana,2016,519.0,Chronic liver disease mortality,2.03
+Louisiana,2016,52.8,Alcohol use before pregnancy,2.03
+Louisiana,2014,8.3,Chronic liver disease mortality,2.03
+Louisiana,2011,9.9,Chronic liver disease mortality,2.03
+Louisiana,2010,8.2,Chronic liver disease mortality,2.03
+Louisiana,2017,64.7,Alcohol use before pregnancy,2.03
+Louisiana,2013,0.0,Alcohol use among youth,2.03
+Louisiana,2011,5.1,Chronic liver disease mortality,2.03
+Louisiana,2017,15.4,Chronic liver disease mortality,2.03
+Louisiana,2012,434.0,Chronic liver disease mortality,2.03
+Louisiana,2018,8.4,Chronic liver disease mortality,2.03
+Louisiana,2018,0.0,Chronic liver disease mortality,2.03
+Louisiana,2016,0.0,Alcohol use before pregnancy,2.03
+Louisiana,2010,0.0,Chronic liver disease mortality,2.03
+Louisiana,2013,10.3,Chronic liver disease mortality,2.03
+Louisiana,2019,123.0,Chronic liver disease mortality,2.03
+Louisiana,2019,0.0,Chronic liver disease mortality,2.03
+Louisiana,2013,15.1,Chronic liver disease mortality,2.03
+Utah,2018,287.0,Chronic liver disease mortality,1.29
+Utah,2019,261.0,Chronic liver disease mortality,1.29
+Utah,2017,5.5,Binge drinking prevalence among youth,1.29
+Utah,2016,26.7,Alcohol use before pregnancy,1.29
+Utah,2017,0.0,Alcohol use among youth,1.29
+Utah,2012,0.0,Alcohol use before pregnancy,1.29
+Arizona,2019,29.5,Alcohol use among youth,1.3
+Arizona,2018,449.0,Chronic liver disease mortality,1.3
+Arizona,2016,431.0,Chronic liver disease mortality,1.3
+Arizona,2020,55.1,Alcohol use before pregnancy,1.3
+Arizona,2010,17.3,Chronic liver disease mortality,1.3
+Arizona,2011,0.0,Chronic liver disease mortality,1.3
+Arizona,2018,0.0,Chronic liver disease mortality,1.3
+Arizona,2015,717.0,Chronic liver disease mortality,1.3
+Arizona,2020,94.2,Chronic liver disease mortality,1.3
+Arizona,2011,628.0,Chronic liver disease mortality,1.3
+Arizona,2017,0.0,Chronic liver disease mortality,1.3
+Arizona,2012,0.0,Chronic liver disease mortality,1.3
+Arizona,2010,8.9,Chronic liver disease mortality,1.3
+Arizona,2013,58.9,Chronic liver disease mortality,1.3
+Arizona,2012,215.0,Chronic liver disease mortality,1.3
+Arizona,2011,0.0,Alcohol use before pregnancy,1.3
+Arizona,2015,41.7,Alcohol use among youth,1.3
+Arizona,2020,866.0,Chronic liver disease mortality,1.3
+Arizona,2017,11.0,Chronic liver disease mortality,1.3
+Arizona,2019,68.4,Chronic liver disease mortality,1.3
+Arizona,2014,11.1,Chronic liver disease mortality,1.3
+Arizona,2020,0.0,Alcohol use before pregnancy,1.3
+Minnesota,2020,11.5,Chronic liver disease mortality,1.32
+Minnesota,2012,305.0,Chronic liver disease mortality,1.32
+Minnesota,2018,26.0,Chronic liver disease mortality,1.32
+Minnesota,2019,35.0,Chronic liver disease mortality,1.32
+Minnesota,2013,43.3,Chronic liver disease mortality,1.32
+Minnesota,2014,0.0,Chronic liver disease mortality,1.32
+Minnesota,2015,23.0,Chronic liver disease mortality,1.32
+Minnesota,2019,0.0,Alcohol use among youth,1.32
+Minnesota,2018,12.2,Chronic liver disease mortality,1.32
+Minnesota,2015,0.0,Alcohol use among youth,1.32
+Minnesota,2014,0.0,Chronic liver disease mortality,1.32
+Minnesota,2015,0.0,Binge drinking prevalence among youth,1.32
+Minnesota,2013,0.0,Chronic liver disease mortality,1.32
+Minnesota,2012,55.1,Alcohol use before pregnancy,1.32
+Minnesota,2013,46.9,Alcohol use before pregnancy,1.32
+New Jersey,2015,40.1,Alcohol use before pregnancy,1.45
+New Jersey,2013,23.0,Binge drinking prevalence among youth,1.45
+New Jersey,2011,784.0,Chronic liver disease mortality,1.45
+New Jersey,2015,6.8,Chronic liver disease mortality,1.45
+New Jersey,2012,0.0,Chronic liver disease mortality,1.45
+New Jersey,2013,22.5,Alcohol use among youth,1.45
+New Jersey,2020,54.6,Alcohol use before pregnancy,1.45
+New Jersey,2016,8.5,Chronic liver disease mortality,1.45
+New Jersey,2011,0.0,Chronic liver disease mortality,1.45
+New Jersey,2019,297.0,Chronic liver disease mortality,1.45
+New Jersey,2015,0.0,Alcohol use among youth,1.45
+New Jersey,2018,55.3,Alcohol use before pregnancy,1.45
+New Jersey,2017,0.0,Alcohol use among youth,1.45
+New Jersey,2018,10.0,Chronic liver disease mortality,1.45
+New Jersey,2017,0.0,Binge drinking prevalence among youth,1.45
+New Jersey,2019,26.5,Alcohol use before pregnancy,1.45
+New Jersey,2013,10.2,Chronic liver disease mortality,1.45
+New Jersey,2014,67.0,Alcohol use before pregnancy,1.45
+New Jersey,2019,16.6,Binge drinking prevalence among youth,1.45
+New Jersey,2020,98.0,Chronic liver disease mortality,1.45
+New Jersey,2017,0.0,Alcohol use among youth,1.45
+Massachusetts,2010,23.0,Chronic liver disease mortality,1.51
+Massachusetts,2011,523.0,Chronic liver disease mortality,1.51
+Massachusetts,2012,405.0,Chronic liver disease mortality,1.51
+Massachusetts,2013,388.0,Chronic liver disease mortality,1.51
+Massachusetts,2013,6.9,Chronic liver disease mortality,1.51
+Massachusetts,2013,40.5,Alcohol use before pregnancy,1.51
+Massachusetts,2017,251.0,Chronic liver disease mortality,1.51
+Massachusetts,2013,37.4,Alcohol use among youth,1.51
+Massachusetts,2019,44.0,Alcohol use before pregnancy,1.51
+Massachusetts,2020,0.0,Chronic liver disease mortality,1.51
+Massachusetts,2013,0.0,Chronic liver disease mortality,1.51
+Massachusetts,2010,0.0,Chronic liver disease mortality,1.51
+Massachusetts,2018,53.0,Chronic liver disease mortality,1.51
+Massachusetts,2010,11.2,Chronic liver disease mortality,1.51
+Massachusetts,2019,32.0,Chronic liver disease mortality,1.51
+Massachusetts,2016,10.5,Chronic liver disease mortality,1.51
+Massachusetts,2012,0.0,Chronic liver disease mortality,1.51
+Massachusetts,2014,6.9,Chronic liver disease mortality,1.51
+Massachusetts,2012,5.1,Chronic liver disease mortality,1.51
+Massachusetts,2013,10.6,Chronic liver disease mortality,1.51
+Massachusetts,2020,0.0,Alcohol use before pregnancy,1.51
+Massachusetts,2017,9.9,Chronic liver disease mortality,1.51
+Massachusetts,2015,17.7,Binge drinking prevalence among youth,1.51
+Massachusetts,2011,7.7,Chronic liver disease mortality,1.51
+Massachusetts,2017,4.4,Chronic liver disease mortality,1.51
+Massachusetts,2014,0.0,Chronic liver disease mortality,1.51
+Massachusetts,2015,0.0,Alcohol use before pregnancy,1.51
+Wisconsin,2013,384.0,Chronic liver disease mortality,1.52
+Wisconsin,2019,37.0,Chronic liver disease mortality,1.52
+Wisconsin,2019,0.0,Binge drinking prevalence among youth,1.52
+Wisconsin,2018,0.0,Alcohol use before pregnancy,1.52
+Wisconsin,2015,0.0,Alcohol use among youth,1.52
+Wisconsin,2019,0.0,Binge drinking prevalence among youth,1.52
+Wisconsin,2017,28.1,Alcohol use among youth,1.52
+Wisconsin,2019,29.8,Alcohol use among youth,1.52
+Wisconsin,2020,0.0,Alcohol use before pregnancy,1.52
+Wisconsin,2013,42.6,Alcohol use before pregnancy,1.52
+Wisconsin,2013,18.4,Binge drinking prevalence among youth,1.52
+Hawaii,2011,89.0,Chronic liver disease mortality,1.52
+Hawaii,2020,0.0,Chronic liver disease mortality,1.52
+Hawaii,2020,0.0,Chronic liver disease mortality,1.52
+Hawaii,2020,70.4,Alcohol use before pregnancy,1.52
+Hawaii,2011,0.0,Chronic liver disease mortality,1.52
+Hawaii,2012,58.5,Alcohol use before pregnancy,1.52
+Hawaii,2016,0.0,Chronic liver disease mortality,1.52
+Hawaii,2016,71.0,Alcohol use before pregnancy,1.52
+Hawaii,2014,52.1,Alcohol use before pregnancy,1.52
+Hawaii,2019,4.9,Chronic liver disease mortality,1.52
+Hawaii,2010,102.0,Chronic liver disease mortality,1.52
+Hawaii,2010,0.0,Chronic liver disease mortality,1.52
+Hawaii,2013,25.2,Alcohol use among youth,1.52
+Hawaii,2015,5.4,Chronic liver disease mortality,1.52
+Hawaii,2018,5.5,Chronic liver disease mortality,1.52
+Hawaii,2017,12.3,Binge drinking prevalence among youth,1.52
+Hawaii,2019,0.0,Chronic liver disease mortality,1.52
+Hawaii,2014,0.0,Chronic liver disease mortality,1.52
+Hawaii,2017,4.7,Chronic liver disease mortality,1.52
+Hawaii,2016,52.8,Alcohol use before pregnancy,1.52
+Hawaii,2013,36.0,Chronic liver disease mortality,1.52
+Hawaii,2017,81.0,Chronic liver disease mortality,1.52
+Hawaii,2012,0.0,Chronic liver disease mortality,1.52
+Hawaii,2012,12.5,Chronic liver disease mortality,1.52
+Georgia,2017,7.4,Chronic liver disease mortality,1.54
+Georgia,2017,6.0,Chronic liver disease mortality,1.54
+Georgia,2011,5.8,Chronic liver disease mortality,1.54
+Georgia,2019,0.5,Binge drinking prevalence among youth,1.54
+Georgia,2016,197.0,Chronic liver disease mortality,1.54
+Georgia,2013,32.7,Alcohol use before pregnancy,1.54
+Georgia,2020,0.0,Chronic liver disease mortality,1.54
+Georgia,2016,0.0,Chronic liver disease mortality,1.54
+Georgia,2018,53.8,Alcohol use before pregnancy,1.54
+Georgia,2012,0.0,Chronic liver disease mortality,1.54
+Georgia,2014,596.0,Chronic liver disease mortality,1.54
+Georgia,2019,6.2,Binge drinking prevalence among youth,1.54
+Georgia,2012,5.2,Chronic liver disease mortality,1.54
+Georgia,2013,11.9,Chronic liver disease mortality,1.54
+Georgia,2013,0.0,Chronic liver disease mortality,1.54
+Georgia,2020,0.0,Alcohol use before pregnancy,1.54
+Georgia,2011,10.3,Chronic liver disease mortality,1.54
+Georgia,2014,0.0,Chronic liver disease mortality,1.54
+Georgia,2013,0.0,Chronic liver disease mortality,1.54
+Georgia,2019,17.5,Alcohol use among youth,1.54
+Maryland,2017,16.3,Binge drinking prevalence among youth,1.57
+Maryland,2012,22.7,Alcohol use before pregnancy,1.57
+Maryland,2018,302.0,Chronic liver disease mortality,1.57
+Maryland,2017,10.8,Chronic liver disease mortality,1.57
+Maryland,2017,10.8,Chronic liver disease mortality,1.57
+Maryland,2015,12.9,Alcohol use among youth,1.57
+Maryland,2019,210.0,Chronic liver disease mortality,1.57
+Maryland,2016,29.3,Alcohol use before pregnancy,1.57
+Maryland,2016,6.7,Chronic liver disease mortality,1.57
+Maryland,2020,11.5,Chronic liver disease mortality,1.57
+Maryland,2010,6.9,Chronic liver disease mortality,1.57
+Maryland,2017,0.0,Chronic liver disease mortality,1.57
+Maryland,2019,0.0,Chronic liver disease mortality,1.57
+Maryland,2018,0.0,Alcohol use before pregnancy,1.57
+Maryland,2011,297.0,Chronic liver disease mortality,1.57
+Maryland,2014,4.7,Chronic liver disease mortality,1.57
+Maryland,2014,50.8,Alcohol use before pregnancy,1.57
+Maryland,2013,10.5,Chronic liver disease mortality,1.57
+Maryland,2019,0.0,Alcohol use before pregnancy,1.57
+Maryland,2015,0.0,Chronic liver disease mortality,1.57
+Mississippi,2013,0.0,Alcohol use before pregnancy,1.58
+Mississippi,2020,0.0,Chronic liver disease mortality,1.58
+Mississippi,2017,283.0,Chronic liver disease mortality,1.58
+Mississippi,2019,0.0,Alcohol use among youth,1.58
+Mississippi,2017,0.0,Chronic liver disease mortality,1.58
+Mississippi,2011,339.0,Chronic liver disease mortality,1.58
+Mississippi,2018,0.0,Chronic liver disease mortality,1.58
+Mississippi,2014,15.6,Chronic liver disease mortality,1.58
+Mississippi,2010,12.9,Chronic liver disease mortality,1.58
+Mississippi,2012,0.0,Chronic liver disease mortality,1.58
+Mississippi,2016,0.0,Chronic liver disease mortality,1.58
+Mississippi,2015,382.0,Chronic liver disease mortality,1.58
+Mississippi,2019,0.0,Chronic liver disease mortality,1.58
+Mississippi,2017,10.0,Chronic liver disease mortality,1.58
+Mississippi,2015,17.7,Chronic liver disease mortality,1.58
+Mississippi,2014,70.0,Chronic liver disease mortality,1.58
+Mississippi,2015,0.0,Alcohol use among youth,1.58
+Mississippi,2010,0.0,Chronic liver disease mortality,1.58
+Mississippi,2018,0.0,Alcohol use before pregnancy,1.58
+Mississippi,2012,6.3,Chronic liver disease mortality,1.58
+Mississippi,2012,0.0,Chronic liver disease mortality,1.58
+Mississippi,2019,17.5,Chronic liver disease mortality,1.58
+Mississippi,2013,10.2,Chronic liver disease mortality,1.58
