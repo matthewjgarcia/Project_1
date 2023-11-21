@@ -1,21 +1,21 @@
-,State,Cups of Coffee
-0,Michigan,2.52
-1,Delaware,2.44
-2,West Virginia,2.35
-3,Ohio,2.16
-4,Nebraska,2.13
-5,Arkansas,2.12
-6,South Carolina,2.12
-7,Kansas,2.07
-8,Maine,2.05
-9,Louisiana,2.03
-10,Utah,1.29
-11,Arizona,1.3
-12,Minnesota,1.32
-13,New Jersey,1.45
-14,Massachusetts,1.51
-15,Wisconsin,1.52
-16,Hawaii,1.52
-17,Georgia,1.54
-18,Maryland,1.57
-19,Mississippi,1.58
+   ,State          ,Cups of Coffee
+ 0 ,Michigan       ,          2.52
+ 1 ,Delaware       ,          2.44
+ 2 ,West Virginia  ,          2.35
+ 3 ,Ohio           ,          2.16
+ 4 ,Nebraska       ,          2.13
+ 5 ,Arkansas       ,          2.12
+ 6 ,South Carolina ,          2.12
+ 7 ,Kansas         ,          2.07
+ 8 ,Maine          ,          2.05
+ 9 ,Louisiana      ,          2.03
+10 ,Utah           ,          1.29
+11 ,Arizona        ,          1.3
+12 ,Minnesota      ,          1.32
+13 ,New Jersey     ,          1.45
+14 ,Massachusetts  ,          1.51
+15 ,Wisconsin      ,          1.52
+16 ,Hawaii         ,          1.52
+17 ,Georgia        ,          1.54
+18 ,Maryland       ,          1.57
+19 ,Mississippi    ,          1.58
